@@ -1,5 +1,4 @@
 # Rachel-NLP-DL #
-===============================================================
 This repo is used to motivate myself for paper and book reading.
 Paper and book reading records: 
 *  *[Feb.19]* 
