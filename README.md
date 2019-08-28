@@ -148,3 +148,9 @@ Some recommended papers are listed here. I will continue complete this list.
 * Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
 
 * Jason Weston, Sumit Chopra & Antoine Bordes : MEMORY NETWORKS, ICLR 2015. Link: https://arxiv.org/pdf/1410.3916.pdf
+
+## Advertising & Keyword Generation
+
+* Hughes, J. Weston, Keng-hao Chang, and Ruofei Zhang: "Generating Better Search Engine Text Advertisements with Deep Reinforcement Learning." KDD.19 
+ 
+* Systems and methods for keyword suggestion: google patents. 2015. 
