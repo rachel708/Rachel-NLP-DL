@@ -1,8 +1,6 @@
 # Rachel-NLP-DL #
 This repo is used to motivate myself for paper and book reading.
-Paper and book reading records: 
-*  __[Feb.19]__ 
-    * MEMORY NETWORKS https://arxiv.org/pdf/1410.3916.pdf
+Some recommended papers are listed here. I will continue complete this list.
     
 ## Clustering & Word Embeddings
 
@@ -148,3 +146,5 @@ Paper and book reading records:
 * Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
 
 * Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
+
+* Jason Weston, Sumit Chopra & Antoine Bordes : MEMORY NETWORKS, ICLR 2015. Link: https://arxiv.org/pdf/1410.3916.pdf
